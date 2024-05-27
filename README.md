@@ -8,7 +8,9 @@
 
 ## Plantejament
 
-D'acord amb Lev Manovich, la hibridació consisteix en la fusió i integració de diverses tecnologies, mitjans i llenguatges en un context digital. Aquest fenomen sovint provoca transformacions profundes en la nostra percepció de la cultura i la societat, així com en la forma en què produïm, consumim i vivim els mitjans. Manovich distingeix clarament entre hibridació i multimèdia. La multimèdia es refereix a la juxtaposició d'elements diferents en un mateix context, però cadascun funcionant de manera independent. Per contra, la hibridació implica la modificació dels elements per integrar-los de manera que es fusionin profundament, on les tècniques i propietats dels elements es desplacen o es reconfiguren per generar noves tècniques i funcions.
+D'acord amb Lev Manovich, la hibridació consisteix en la fusió i integració de diverses tecnologies, mitjans i llenguatges en un context digital. Aquest fenomen sovint provoca transformacions profundes en la nostra percepció de la cultura i la societat, així com en la forma en què produïm, consumim i vivim els mitjans. Manovich distingeix clarament entre hibridació i multimèdia. La multimèdia es refereix a la juxtaposició d'elements diferents en un mateix context, però cadascun funcionant de manera independent. Per contra, la hibridació implica la modificació dels elements per integrar-los de manera que es fusionin profundament, on les tècniques i propietats dels elements es desplacen o es reconfiguren per generar noves tècniques i funcions. En aquests assaig veurem dos exemples de hibridació, [**Spotify**](https://open.spotify.com/intl-es) i [**Minecraft Education Edition**](https://education.minecraft.net/es-es).
+
+![Banner Introductori](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/c3cb10c7-9102-44e0-a05b-33e11e2d4bb6)
 
 ## Re-descobrint la hibridació: Spotify
 
@@ -24,7 +26,11 @@ Manovich destaca la convergència de mitjans com una característica clau de la 
 
 Una de les funcions més importants de Spotify és la creació de llistes de reproducció personalitzades, que es generen automàticament segons els nostres hàbits d'escolta. Aquesta personalització és possible gràcies a l'anàlisi de dades i l'aprenentatge automàtic, que adapten les recomanacions a les nostres preferències musicals.
 
+![Spotify AI](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/d306e309-582f-4e57-ad11-7e0ee0c19374)
+
 Spotify també facilita la interacció social, permetent-nos seguir els nostres amics, veure què estan escoltant i compartir les nostres cançons i llistes de reproducció preferides amb ells. Aquesta capacitat de connectar amb altres usuaris crea una experiència musical compartida que va més enllà de l'escolta individual.
+
+![Friends Activity](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/eeddf489-752b-4cd7-839c-1932fe8b9032)
 
 L'impacte de Spotify en la nostra manera de consumir música és significatiu, transformant la manera en què descobrim nous artistes, compartim la música i organitzem les nostres col·leccions musicals. La seva presència a les nostres vides crea una nova forma d'interacció amb la música, provocant canvis socials i culturals importants.
 
