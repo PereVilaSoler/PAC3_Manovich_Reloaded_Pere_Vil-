@@ -42,10 +42,26 @@ En l'àmbit social, existeix el risc de la desigualtat digital, ja que no tothom
 
 ## Re-descobrint la hibridació: Minecraft Education Edition
 
+![headerwithlogo_73w7](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/0c6be1ab-c5f0-4ade-a3b0-66ef1df9e6a6)
+
 Com ja hem esmentat anteriorment, la convergència de mitjans es destaca per ser una de les característiques claus de la hibridació, per això [**Minecraft Education Edition**](https://education.minecraft.net/es-es) n'és un excel·lent exemple, ja que aquest integra la tecnologia de simulació i eines educatives juntament amb una interfície completament interactiva. Aquesta hibridació permet als estudiants explorar mons virtuals, construir estructures i resoldre problemes col·laboratius, tot mentre aprenen matemàtiques, ciència, història i altres matèries.
+
+![DSC04775](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/7408704c-3536-49dd-9ce3-5e91f5f66e66)
 
 Una de les funcions més importants és la seva capacitat per crear lliçons personalitzades, adaptades a les necessitats educatives específiques dels estudiants. Els mestres poden dissenyar activitats i projectes que fomenten la creativitat i el pensament crític, utilitzant les eines del joc per reforçar els conceptes acadèmics. També facilita la col·laboració i la comunicació entre els estudiants, permetent-los treballar junts en projectes dins del món virtual. Aquesta interacció col·laborativa fomenta habilitats socials i de treball en equip, creant una experiència educativa enriquidora.
 
 L'impacte de Minecraft Education Edition en l'educació és profund, transformant la manera en què els estudiants aprenen i els mestres ensenyen. La seva presència en les aules crea una nova forma d'interacció amb el coneixement, provocant canvis significatius en les pràctiques educatives tradicionals. El seu futur, com molts altres serveis tecnològics, està lligat a l'aplicació de la intel·ligència artificial i les dades analítiques, que permetran millorar la personalització i l'eficàcia de les lliçons. A mesura que aquestes tecnologies evolucionin, podrem gaudir d'una experiència educativa encara més adaptada a les necessitats individuals dels estudiants. No obstant això, com altres avenços tecnològics, també presenta reptes importants. Un dels principals reptes és assegurar que tots els estudiants tinguin accés equitatiu a aquesta tecnologia, ja que les desigualtats econòmiques i d'infraestructura poden limitar l'accés a aquestes eines educatives.
 
+![cc1862276984286f221bef8e888ce155](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/a85d1c2c-d666-408d-bb8f-16802f428def)
+
 A nivell social, hi ha el perill de la dependència excessiva de la tecnologia en l'educació, que pot desplaçar les formes tradicionals d'aprenentatge. És important equilibrar l'ús de Minecraft Education Edition amb altres mètodes pedagògics per assegurar una formació integral i equilibrada per a tots els estudiants.
+
+## Bibliografia
+
+1. MANOVICH, LEV. (2013). El Software toma el mando. Editorial UOC
+2. Página de inicio. (s. f.). education.minecraft.net. https://education.minecraft.net/es-es
+3. Wikipedia contributors. (2024, 26 mayo). Minecraft. Wikipedia. https://en.wikipedia.org/wiki/Minecraft#Minecraft_Education
+4. TECHMAKERS. (2020, 31 marzo). Minecraft Education Edition | TechMakers. Techmakers. https://techmakers.es/microsofteducation-minecraftedu
+5. colaboradores de Wikipedia. (2024c, mayo 15). Spotify. Wikipedia, la Enciclopedia Libre. https://es.wikipedia.org/wiki/Spotify
+6. Stacy.Goldrick@groupsjr.com. (2024, 8 abril). Spotify Premium Users Can Now Turn Any Idea Into a Personalized Playlist With AI Playlist in Beta — Spotify. Spotify. https://pr-newsroom-wp.appspot.com/2024-04-07/spotify-premium-users-can-now-turn-any-idea-into-a-personalized-playlist-with-ai-playlist-in-beta/
+7. Freire, D. (2024, 9 abril). La inteligencia artificial de Spotify permitirá crear listas de reproducción como si fuera tu propio DJ. Andro4all. https://www.lavanguardia.com/andro4all/aplicaciones-de-musica/lo-ultimo-de-spotify-es-una-funcion-que-te-permite-crear-listas-de-reproduccion-con-ia-generativa
