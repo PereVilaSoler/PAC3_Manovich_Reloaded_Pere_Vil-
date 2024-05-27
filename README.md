@@ -12,6 +12,8 @@ D'acord amb Lev Manovich, la hibridació consisteix en la fusió i integració d
 
 ## Re-descobrint la hibridació: Spotify
 
+![Spotify](https://github.com/PereVilaSoler/PAC3_Manovich_Reloaded_Pere_Vil-/assets/170944895/2e3e2936-62e5-4acf-b163-e1acfbf94bcd)
+
 > Personalment, utilitzo Spotify per a escoltar les meves cançons preferides, gràcies a la seva capacitat per oferir recomanacions personalitzades i una interfícia d'usuari amigable
 
 Tot i això, existeixen altres opcions populars a l'hora de trobar serveis de streaming de música, com per exemple [**Apple Music**](https://music.apple.com/es/browse) o [**Tidal**](https://tidal.com/), a més d'altres serveis menys coneguts. Cada plataforma té els seus propis algoritmes i característiques úniques, però totes comparteixen la mateixa essència d'integrar múltiples tecnologies per oferir una experiència més completa.
