@@ -34,7 +34,7 @@ Spotify també facilita la interacció social, permetent-nos seguir els nostres 
 
 L'impacte de Spotify en la nostra manera de consumir música és significatiu, transformant la manera en què descobrim nous artistes, compartim la música i organitzem les nostres col·leccions musicals. La seva presència a les nostres vides crea una nova forma d'interacció amb la música, provocant canvis socials i culturals importants.
 
-El futur de Spotify, com molts altres serveis tecnològics, està lligat a l'aplicació de la intel·ligència artificial, que permetrà millorar encara més la personalització i les recomanacions. A mesura que els algorismes es tornen més sofisticats, podrem gaudir d'una experiència musical encara més adaptada als nostres gustos i necessitats.
+El futur de Spotify, com molts altres serveis tecnològics, està lligat a l'aplicació de la intel·ligència artificial, que permetrà millorar encara més la personalització i les recomanacions. A mesura que els algoritmes es tornen més sofisticats, podrem gaudir d'una experiència musical encara més adaptada als nostres gustos i necessitats.
 
 No obstant això, com altres avenços tecnològics, Spotify també presenta reptes importants. Un dels principals reptes és la privacitat, ja que es recopilen i processen gran quantitat de dades personals per oferir recomanacions precises. Un altre repte és la sostenibilitat, ja que l'ús massiu de streaming consumeix grans quantitats de dades i energia.
 
